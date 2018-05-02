@@ -1,0 +1,6 @@
+c:\Projects\task_exec\task_exec\bin\Debug\task_exec.exe.config
+c:\Projects\task_exec\task_exec\bin\Debug\task_exec.exe
+c:\Projects\task_exec\task_exec\bin\Debug\task_exec.pdb
+c:\Projects\task_exec\task_exec\obj\Debug\task_exec.csprojResolveAssemblyReference.cache
+c:\Projects\task_exec\task_exec\obj\Debug\task_exec.exe
+c:\Projects\task_exec\task_exec\obj\Debug\task_exec.pdb
